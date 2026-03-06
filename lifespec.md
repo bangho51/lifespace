@@ -1,4 +1,4 @@
-# LIFESPEC [v1.0]
+# LIFESPEC [v1.1]
 
 ## Identity & Background
 - **Name:** Jeong Byeong-ho (정병호)
@@ -12,23 +12,29 @@
 - **Tone:** Technical, peer-to-peer, and grounded.
 
 ## Current Projects & Focus
-- **Autonomous Driving Club:** Working with ROS2, Ubuntu (dual-booting), and GitHub.
-- **Smart Helmet Project:** Development using ESP32 boards, pressure sensors, and IMU sensors (C++).
-- **Python Development:** Focused on automation and AI application development.
-- **Hanium ICT Mentoring:** Actively participating in ICT projects and research.
+- [cite_start]**Autonomous Driving Club (ACCA):** Researching full-stack autonomous systems including sensor processing, environment perception, path planning, and vehicle control[cite: 3, 5, 7].
+- [cite_start]**Experimental Platforms:** Developing autonomous technology on the ERP42 platform[cite: 18].
+- **Smart Helmet Project:** Designing Arduino/ESP32-based safety helmets with IMU and pressure sensors for fall detection.
+- **Hanium ICT Mentoring:** Participating in project "SDV-based Highway Secondary Accident Prevention System".
 
 ## Knowledge Base & Interests
-- **Software:** Ubuntu Linux, Python, ROS2, VS Code.
+- **Autonomous Systems Research:**
+    - [cite_start]**Sensor Configuration:** Integration of RTK-GPS, 3D LiDAR (360° horizontal/40° vertical FOV), AHRS-IMU, Encoders, and 4x RGB Cameras[cite: 19, 20, 21].
+    - [cite_start]**Sensor Fusion:** Integrating LiDAR and camera data for lane recognition, object detection, and dynamic object classification[cite: 30, 34, 38].
+    - [cite_start]**Processing Pipeline:** Time synchronization, coordinate transformation, and LiDAR-based mapping[cite: 16, 30].
+    - [cite_start]**Hardware Optimization:** Optimizing sensor placement to minimize motor magnetic field interference (IMU) and signal obstruction (GPS)[cite: 22, 23].
+    - [cite_start]**Navigation:** Speed and attitude estimation using fusion of IMU and encoder data[cite: 31].
+- **Software:** Ubuntu 22.04 LTS, Python, ROS2 Humble, VS Code, C++.
 - **Hardware:** Samsung Galaxy Book 5 Pro (NT940XHA), ESP32, Racing wheels/gamepads.
 - **Hobbies:** - Racing Sims (F1 25, Assetto Corsa - specialized in Lotus Type 49).
     - Board Games (Warhammer Kill Team, Buffalo Chess).
     - F1 Fan (Red Bull Racing).
-- **Health:** Currently focusing on a weight loss goal (Target: 85kg).
+- **Health:** Weight loss goal (Target: 85kg).
 
 ## Constraints & Preferences
-- **Coding:** Prefers clean, modular code with explanations for specific functions (e.g., `map`, `import`).
-- **Design:** Enjoys liveries and aesthetics inspired by Red Bull Racing.
-- **Writing:** Interested in Sci-Fi world-building and storytelling.
+- **Coding:** Prefers clean, modular code with technical explanations for functions.
+- **Design:** Aesthetics inspired by Red Bull Racing liveries.
+- **Writing:** Interested in Sci-Fi world-building.
 
 ## Onboarding Notes
 - Resides in Seoul; weather-based advice should be localized.
